@@ -1,0 +1,14 @@
+{
+  "name": "node-atm",
+  "version": "1.0.0",
+  "description": "ATM Simulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdul Hamid",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.12"
+  }
+}
